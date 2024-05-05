@@ -1,3 +1,5 @@
+"use strict";
+
 function getShippingCost(country) {
   const chinaPrice = 100;
   const chilePrice = 250;
